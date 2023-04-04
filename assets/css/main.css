@@ -443,6 +443,7 @@ a {
 
 .feedback-item .info {
     width: 159px;
+    height: 188px;
 }
 
 .feedback-item .avt {
@@ -484,7 +485,7 @@ a {
     width: 770px;
 }
 
-.feedback-item p {
+.feedback-item .para {
     position: absolute;
     top: 28px;
     left: 30px;
