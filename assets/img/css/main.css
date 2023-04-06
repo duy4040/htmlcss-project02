@@ -76,7 +76,6 @@ a {
 .nav ul li a {
     position: relative;
     display: inline-block;
-    font-family: 'Poppins';
     font-weight: 400;
     font-size: 1.6rem;
     line-height: 1.75;
@@ -105,10 +104,6 @@ a {
 
 .action .sign-up-btn {
     width: 144px;
-}
-
-.action .sign-up-btn:hover {
-    background-color: #FFB900;
 }
 
 /* Hero */
@@ -737,11 +732,6 @@ a {
     font-size: 1.4rem;
     line-height: 1.86;
     color: #BFBCB2;
-    margin-bottom: 18px;
-}
-
-.social-group .icon {
-    margin-right: 18px;
 }
 
 .footer .title {
@@ -751,30 +741,4 @@ a {
     color: #FFFFFF;
     width: 130px;
     border-bottom: 1px solid #59554B;
-    padding-bottom: 14px;
-    margin-bottom: 28px;
-}
-
-.footer .item {
-    margin-bottom: 12px;
-}
-
-.footer .item a {
-    font-weight: 400;
-    font-size: 1.4rem;
-    line-height: 1.86;
-    color: #BFBCB2; 
-}
-
-.footer .item a span {
-    font-weight: 600;
-    color: #fff;
-}
-
-.copyright {
-    text-align: center;
-    font-weight: 400;
-    font-size: 1.4rem;
-    line-height: 1.86;
-    color: #807D74;
 }
